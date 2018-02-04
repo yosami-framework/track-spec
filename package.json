@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A test framework of track.",
   "main": "index.js",
+  "repository": "alfa-jpn/track-spec",
   "scripts": {
     "linter": "eslint ./",
     "test": "ospec"
