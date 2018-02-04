@@ -1,18 +1,20 @@
 {
   "name": "track-spec",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A test framework of track.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "alfa-jpn/track-spec",
   "scripts": {
     "linter": "eslint ./",
     "test": "ospec"
   },
-  "author": "alfa",
+  "author": "alfa-jpn",
   "license": "ISC",
+  "dependencies": {
+    "mithril": "^1.1.6"
+  },
   "devDependencies": {
     "eslint": "^4.17.0",
-    "eslint-config-google": "^0.9.1",
-    "mithril": "^1.1.6"
+    "eslint-config-google": "^0.9.1"
   }
 }
