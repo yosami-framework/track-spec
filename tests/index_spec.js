@@ -1,4 +1,4 @@
-const t = require('../index');
+const t = require('../lib/index');
 
 t.describe('TrackSpec', () => {
   t.describe('.describe, .subject, .context, .it, .expect', () => {
