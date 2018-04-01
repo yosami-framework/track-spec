@@ -2,6 +2,8 @@
 
 A test framework of track.
 
+[![Build Status](https://travis-ci.org/yosami-framework/track-spec.svg?branch=master)](https://travis-ci.org/yosami-framework/track-spec)
+
 ## Installation
 
 ### npm

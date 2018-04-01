@@ -1,9 +1,9 @@
 {
   "name": "track-spec",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A test framework of track.",
   "main": "lib/index.js",
-  "repository": "alfa-jpn/track-spec",
+  "repository": "yosami-framework/track-spec",
   "scripts": {
     "linter": "eslint ./",
     "test": "ospec"
